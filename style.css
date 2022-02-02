@@ -1,0 +1,148 @@
+body{
+	background: url(music.png);
+}
+.kotak{
+	width: 95%;
+	height: max-content;
+	background: #F08080;
+	margin-left: 30px;
+	margin-right: 40px;
+	float: center;
+	padding-top: 10px;
+	padding-bottom: 80px;
+	margin-top:50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+h1{
+	text-align: 'center';
+	font-style: 'bolder';
+	font-size: 30px;
+	margin-top: 25px;
+	padding-left: 5%;
+	padding-top: 20px;
+	margin-right: 50px;
+}
+.kelasalbum{
+	height: 50px;
+	font-weight: bold;
+	font-family: 'garamond';
+	text-align: center;
+	font-size: 18px;
+}
+.kelasalbum_1{
+	height: 40px;
+	text-align: center;
+}
+.submit{
+	float:right;
+	font-weight: bold;
+	border-radius: 3px;
+	background: #483D8B;
+	color:white;
+	font-family: 'garamond';
+	text-decoration: none;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 65px;
+	padding-right: 65px;
+	margin-bottom: 50px;
+	margin-right: 30px
+}
+.body1{
+	background: url(album1.jpg);
+}
+.kotak2{
+	width: 280px;
+	background: #FFFFF0;
+	height: 350px;
+	margin:20px auto;
+	padding: 25px 25px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.namaalbum{
+	font-family: "times new roman";
+	font-size: 18px;
+	font-weight: bolder;
+}
+.kotakform{
+	width: 260px;
+	height: 15px;
+	margin-bottom: 15px;
+}
+.submit_1{
+	float:right;
+	font-weight: bold;
+	border-radius: 3px;
+	background: #FFF0F5;
+	color:black;
+	font-family: 'times new roman';
+	text-decoration: none;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 70px;
+	padding-right: 70px;
+	margin-bottom: 70px;
+	margin-right: 55px;
+}
+.hapus{
+	float:right;
+	font-size: 12pt;
+	border: 7px;
+	border-radius: 3px;
+	background: #800000;
+	text-decoration : none;
+	font-family: 'century gothic';
+	color: white;
+	font-weight: bold;
+	width: 80px;
+	height: 28px; 
+	text-align: center;
+	margin-right:30px;
+}
+.edit{
+	float:right;
+	font-size: 12pt;
+	border: 7px;
+	border-radius: 3px;
+	background: #191970;
+	text-decoration : none;
+	font-family: 'century gothic';
+	color: white;
+	font-weight: bold;
+	width: 80px;
+	height: 28px; 
+	text-align: center;
+	margin-right:30px;
+}
+.body2{
+	background: url(album2.jpg);
+}
+.kotak3{
+	width: 280px;
+	background: #FFDAB9;
+	height: 350px;
+	margin:20px auto;
+	padding: 25px 25px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.submit_2{
+	float:right;
+	font-weight: bold;
+	border-radius: 3px;
+	background: #CD853F;
+	color:black;
+	font-family: 'times new roman';
+	text-decoration: none;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 70px;
+	padding-right: 70px;
+	margin-bottom: 70px;
+	margin-right: 55px;
+}
